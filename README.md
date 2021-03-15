@@ -4,7 +4,7 @@ arth task code
 # Creating a K8s_Multi Node Cluster with | Ansible Role on provisioned AWS Cloud Instances | Dynamic Inventory
 
 # Kubernetes:
-Kubernetes also known as K8s, is an system which is used for Automation deployment, Scaling and Management of containerized applications. K8s Single Node Cluster means Single Master and Worker Node and K8s Multi Node Cluster means Single Master and many Worker Nodes i.e. High Availibility Cluster.
+Kubernetes also known as K8s, is an system which is used for Automation deployment, Scaling and Management of containerized applications. K8s Single Node Cluster means Single Master and Worker Node and K8s Multi Node Cluster means Single Master and many Worker Nodes i.e. High Availability Cluster.
 
 # Ansible:
 Ansible is the simplest way to automate the technological tools configuration i.e. mainly used for the Configuration Management. Ansible Role helps to configure the technology in very easily as it is kind of package used for managing codes in Ansible.
